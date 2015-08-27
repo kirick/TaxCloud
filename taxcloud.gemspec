@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'TaxCloud'
-  s.version = '1.0.2'
+  s.version = '1.0.3'
   s.date = '2015-08-27'
   s.summary = 'TaxCloud free sales tax calculation gemn'
   s.description = 'This gem allows you to easily integration your Ruby application with the TaxCloud web services'
